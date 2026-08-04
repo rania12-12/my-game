@@ -2,6 +2,7 @@ from PyQt5.QtCore import Qt
 from PyQt5.QtWidgets import QApplication,QWidget,QLabel,QPushButton,QListWidget,QTextEdit,QVBoxLayout,QHBoxLayout,QLineEdit,QInputDialog
 import json
 #rania amaireh
+#this is my second comment
 notes={
 "About planets" : 
      	{
