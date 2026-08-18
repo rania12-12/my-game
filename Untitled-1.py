@@ -1,7 +1,7 @@
 
 from pygame import *
 '''Required classes'''
-
+'''hello every one'''
 
 #parent class for sprites
 class GameSprite(sprite.Sprite):
